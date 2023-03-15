@@ -6,7 +6,7 @@ Finds corrections based on input using the noisy channel model. Language model i
 ## Usage
 1. Download and install [python](https://www.python.org/downloads/)
 2. Clone the repo
-3. Run `pip -r requirements.txt`
+3. Run `pip install -r requirements.txt`
 4. Run `python ./noisy_channel.py [-OPTIONS]`
 
 ## Options
